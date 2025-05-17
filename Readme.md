@@ -11,4 +11,11 @@ Programe un ofuscador de codigos escritos en python, este ofuscador permite sele
   5. Ejecutar múltiples iteraciones aleatorias
      
 De esta manera, si nuestro script cayera en las manos equivocadas, tendrian que superar
-un complejo laberinto de encriptaciones por capas para llegar a leer el codigo.
+un complejo laberinto de encriptaciones por capas para llegar a leer el codigo,
+
+En un caso practico utilizo mi ofuscador de codigo CRIPTO seleccionando el cifrado asimétrico RSA y utilizando técnicas de ingeniería inversa
+puedo evadir las protecciones de las soluciones de seguridad: 
+
+   72 antivirus no detectaron mi PE en virus total.
+
+Este proyecto autodidacta fue excelente ejercicio de aprendizaje, realizado un un entorno personal seguro con fines académicos y de investigación.
