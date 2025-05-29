@@ -19,3 +19,5 @@ puedo evadir las protecciones de las soluciones de seguridad:
    72 antivirus no detectaron mi PE en virus total.
 
 Este proyecto autodidacta fue excelente ejercicio de aprendizaje, realizado un un entorno personal seguro con fines académicos y de investigación.
+
+![](https://github.com/eusebio-orozco/ofuscador-de-codigo/blob/42925fed35f3d26dbeb17c93a305535d02e82c94/ofuscador_de_codigo.gif)
