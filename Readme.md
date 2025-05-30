@@ -1,7 +1,7 @@
-[+][+] CRIPTO [+][+]
++++ CRIPTO +++
 Ofuscador de codigo
 
-Programe un ofuscador de codigos escritos en python, este ofuscador permite seleccionar cuatro metodos de cifrado:
+Programe un ofuscador de codigos escrito en python, este ofuscador permite seleccionar cuatro metodos de cifrado:
     
     
   1. Cifrado con fórmula de número primo (método 1)
